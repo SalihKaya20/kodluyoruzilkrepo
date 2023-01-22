@@ -41,7 +41,7 @@ istediğinizi tartışmak için bir konu açınız.
 
 ## License
 
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
