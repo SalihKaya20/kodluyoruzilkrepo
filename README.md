@@ -1,5 +1,7 @@
 # kodluyoruzilkrepo
 
+[Patika.dev](https://www.patika.dev/tr)
+
 
 Bu Repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) 
 Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet 
