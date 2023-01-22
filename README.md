@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruz İlk Repo
 
 [Patika.dev](https://www.patika.dev/tr)
 
